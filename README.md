@@ -8,9 +8,9 @@
 
 <h3 align="left">Members : </h3>
 <p align="left">
-<h4>Admin : Parthsinh R Thakor (IT Enginnering Student @GECGandhinagar)</h4>
-<h4>Key Member : Dharmik Aslaliya (IT Enginnering Student @GECGandhinagar)</h4>
-<h4>Key Member : Navalsinh Zala (IT Enginnering Student @GECGandhinagar)</h4>
+<h5>Admin : Parthsinh R Thakor (IT Enginnering Student @GECGandhinagar)</h5>
+<h5>Key Member : Dharmik Aslaliya (IT Enginnering Student @GECGandhinagar)</h5>
+<h5>Key Member : Navalsinh Zala (IT Enginnering Student @GECGandhinagar)</h5>
 </p>
 
 <h3 align="left">Connect with us :</h3>
